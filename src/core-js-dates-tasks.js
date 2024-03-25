@@ -130,7 +130,7 @@ function isDateInPeriod(date, period) {
 /**
  * Returns the date formatted in 'M/D/YYYY, hh:mm:ss a'.
  *
- * @param {string} date - The date to be formatted, in ISO 8601 format (e.g., 'YYYY-MM-DDTHH:mm:ss.sssZ').
+ * @param {string} date - The date to be formatted, in ISO 8601 format (e.g., 'YYYY-MM-DD, HH:mm:ss.sssZ').
  * @return {string} - The date formatted in 'Month/Day/Year, Hour:Minute:Second AM/PM'.
  *
  * @example:
